@@ -1,7 +1,10 @@
 # Delivery app orders analysis
 
 DA-3
-Objetivo:
+## Descripción:
+Proyecto de analisis de ordenes de clientes en la app Instacart
+
+## Objetivo:
 Encontrar hábitos de compra de los clientes de Instacart con base en los datos de las ordenes realizadas en la app
 Manipulación de datos (Data Wrangling)
 Preprocesamiento de datos: Limpiar los datos y preparar un informe que brinde información sobre los hábitos de compra de los clientes de Instacart
